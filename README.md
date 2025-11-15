@@ -29,8 +29,6 @@ Voice Command Shopping Assistant is a lightweight and intuitive voice-controlled
 - Real-time visual feedback for recognized commands  
 - Mobile-optimized + voice-first design  
 
-### ☁️ **Hosting**
-Hosted on a cloud platform (Firebase / AWS / Render / Vercel).
 
 ---
 
