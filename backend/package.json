@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "compromise": "^14.14.4",
+    "compromise-dates": "^3.7.1",
+    "compromise-numbers": "^1.4.0",
+    "compromise-sentences": "^0.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "libretranslate": "^1.0.1",
+    "mongoose": "^8.19.3",
+    "translate-google": "^1.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
